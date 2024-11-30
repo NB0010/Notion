@@ -24,12 +24,12 @@ const CONFIG = {
   STARTER_HERO_PREVIEW_IMAGE: '/images/starter/hero/3.jpg', // 产品预览图 ，默认读取public目录下图片
   STARTER_HERO_BANNER_IMAGE: '', // hero区下方的全宽图
 
-  // 顶部右侧导航暗流
+  // 顶部右侧导航暗流 可增加登录注册功能
   STARTER_NAV_BUTTON_1_TEXT: 'Sign In',
-  STARTER_NAV_BUTTON_1_URL: '/sign-in',
+  STARTER_NAV_BUTTON_1_URL: '',
 
-  STARTER_NAV_BUTTON_2_TEXT: 'Sign Up',
-  STARTER_NAV_BUTTON_2_URL: '/sign-up',
+  STARTER_NAV_BUTTON_2_TEXT: 'Support Documents',
+  STARTER_NAV_BUTTON_2_URL: 'https://drive.google.com/drive/folders/1Szkb2tGtnoVdsnqEFn2sCWZ8l-xSTJuY?usp=drive_link',
 
   // 特性区块
   STARTER_FEATURE_ENABLE: true, // 特性区块开关
