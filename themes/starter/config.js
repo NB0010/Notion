@@ -21,7 +21,7 @@ const CONFIG = {
   STARTER_HERO_BUTTON_2_ICON: '', // 英雄区按钮2的图标，不需要则留空
 
   // 英雄区配图，如需隐藏，改为空值即可 ''
-  STARTER_HERO_PREVIEW_IMAGE: '3.jpg', // 产品预览图 ，默认读取public目录下图片
+  STARTER_HERO_PREVIEW_IMAGE: '', // 产品预览图 ，默认读取public目录下图片
   STARTER_HERO_BANNER_IMAGE: '', // hero区下方的全宽图
 
   // 顶部右侧导航暗流
@@ -301,24 +301,45 @@ const CONFIG = {
       LINK_GROUP: [
         { TITLE: '官方主页', URL: '/#home' },
         { TITLE: '操作文档', URL: 'https://docs.tangly1024.com/about' },
-        { TITLE: '帮助支持', URL: 'https://docs.tangly1024.com/article/how-to-question' },
-        { TITLE: '合作申请', URL: 'https://docs.tangly1024.com/my-service' }
+        {
+          TITLE: '帮助支持',
+          URL: 'https://docs.tangly1024.com/article/how-to-question'
+        },
+        {
+          TITLE: '合作申请',
+          URL: 'https://docs.tangly1024.com/article/my-service'
+        }
       ]
     },
     {
       TITLE: '功能特性',
       LINK_GROUP: [
-        { TITLE: '部署指南', URL: 'https://docs.tangly1024.com/article/vercel-deploy-notion-next' },
-        { TITLE: '升级指南', URL: 'https://docs.tangly1024.com/article/how-to-update-notionnext' },
+        {
+          TITLE: '部署指南',
+          URL: 'https://docs.tangly1024.com/article/vercel-deploy-notion-next'
+        },
+        {
+          TITLE: '升级指南',
+          URL: 'https://docs.tangly1024.com/article/how-to-update-notionnext'
+        },
         { TITLE: '最新版本', URL: 'https://docs.tangly1024.com/article/latest' }
       ]
     },
     {
       TITLE: 'Notion写作',
       LINK_GROUP: [
-        { TITLE: 'Notion开始写作', URL: 'https://docs.tangly1024.com/article/start-to-write' },
-        { TITLE: '快捷键提升效率', URL: 'https://docs.tangly1024.com/article/notion-short-key' },
-        { TITLE: '中国大陆使用Notion', URL: 'https://docs.tangly1024.com/article/notion-faster' }
+        {
+          TITLE: 'Notion开始写作',
+          URL: 'https://docs.tangly1024.com/article/start-to-write'
+        },
+        {
+          TITLE: '快捷键提升效率',
+          URL: 'https://docs.tangly1024.com/article/notion-short-key'
+        },
+        {
+          TITLE: '中国大陆使用Notion',
+          URL: 'https://docs.tangly1024.com/article/notion-faster'
+        }
       ]
     }
   ],
@@ -334,7 +355,7 @@ const CONFIG = {
   STARTER_FOOTER_PRIVACY_TERMS_OF_SERVICE_TEXT: '服务协议',
   STARTER_FOOTER_PRIVACY_TERMS_OF_SERVICE_URL: '/terms-of-use',
 
- // 404页面的提示语
+  // 404页面的提示语
   STARTER_404_TITLE: '我们似乎找不到您要找的页面。',
   STARTER_404_TEXT: '抱歉！您要查找的页面不存在。可能已经移动或删除。',
   STARTER_404_BACK: '回到主页',
