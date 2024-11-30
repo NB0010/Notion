@@ -297,48 +297,48 @@ const CONFIG = {
   // 页脚三列菜单组
   STARTER_FOOTER_LINK_GROUP: [
     {
-      TITLE: '关于我们',
+      TITLE: 'about me',
       LINK_GROUP: [
-        { TITLE: '官方主页', URL: '/#home' },
-        { TITLE: '操作文档', URL: 'https://docs.tangly1024.com/about' },
+        { TITLE: 'Sales Home Page', URL: 'https://www.amazon.com/dp/B0DJ178NSS' },
+        { TITLE: 'Operational Documentation', URL: 'https://drive.google.com/drive/folders/1Szkb2tGtnoVdsnqEFn2sCWZ8l-xSTJuY?usp=drive_link' },
         {
-          TITLE: '帮助支持',
-          URL: 'https://docs.tangly1024.com/article/how-to-question'
+          TITLE: 'Help & Support',
+          URL: 'https://drive.google.com/drive/folders/1Szkb2tGtnoVdsnqEFn2sCWZ8l-xSTJuY?usp=drive_link'
         },
         {
-          TITLE: '合作申请',
-          URL: 'https://docs.tangly1024.com/article/my-service'
+          TITLE: 'Cooperation Application',
+          URL: 'https://drive.google.com/drive/folders/1Szkb2tGtnoVdsnqEFn2sCWZ8l-xSTJuY?usp=drive_link'
         }
       ]
     },
     {
-      TITLE: '功能特性',
+      TITLE: 'Features',
       LINK_GROUP: [
         {
-          TITLE: '部署指南',
-          URL: 'https://docs.tangly1024.com/article/vercel-deploy-notion-next'
+          TITLE: 'Deployment Guide',
+          URL:  'https://drive.google.com/drive/folders/1Szkb2tGtnoVdsnqEFn2sCWZ8l-xSTJuY?usp=drive_link'
         },
         {
-          TITLE: '升级指南',
-          URL: 'https://docs.tangly1024.com/article/how-to-update-notionnext'
+          TITLE: 'Upgrade Guide',
+          URL:  'https://drive.google.com/drive/folders/1Szkb2tGtnoVdsnqEFn2sCWZ8l-xSTJuY?usp=drive_link'
         },
-        { TITLE: '最新版本', URL: 'https://docs.tangly1024.com/article/latest' }
+        { TITLE: 'Latest version', URL: 'https://www.amazon.com/dp/B0DJ178NSS' }
       ]
     },
     {
-      TITLE: 'Notion写作',
+      TITLE: 'Customer Reviews',
       LINK_GROUP: [
         {
-          TITLE: 'Notion开始写作',
-          URL: 'https://docs.tangly1024.com/article/start-to-write'
+          TITLE: 'Customer Reviews',
+          URL: 'https://www.amazon.com/dp/B0DJ178NSS'
         },
         {
-          TITLE: '快捷键提升效率',
-          URL: 'https://docs.tangly1024.com/article/notion-short-key'
+          TITLE: 'Rapidly improve efficiency',
+          URL: ''https://www.amazon.com/dp/B0DJ178NSS'
         },
         {
-          TITLE: '中国大陆使用Notion',
-          URL: 'https://docs.tangly1024.com/article/notion-faster'
+          TITLE: 'Portable use in multiple scenarios',
+          URL: 'https://www.amazon.com/dp/B0DJ178NSS'
         }
       ]
     }
