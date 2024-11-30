@@ -44,7 +44,7 @@ const CONFIG = {
   STARTER_FEATURE_1_BUTTON_URL: 'https://github.com/tangly1024/NotionNext', // 特性1
 
   STARTER_FEATURE_2_TITLE_1: 'Versatile Power Options', // 特性2
-  STARTER_FEATURE_2_TEXT_1: 'Effortlessly power your welding projects with a 9-12V supply, including car batteries (12V, 20Ah+) or innovative 4-6 series supercapacitors (9-11V). This versatility ensures you're never left without a welding solution.', // 特性2
+  STARTER_FEATURE_2_TEXT_1: 'Effortlessly power your welding projects with a 9-12V supply, including car batteries (12V, 20Ah+) or innovative 4-6 series supercapacitors (9-11V). This versatility ensures you will never be short of welding solutions.', // 特性2
   STARTER_FEATURE_2_BUTTON_TEXT: '', // 特性2
   STARTER_FEATURE_2_BUTTON_URL:
     'https://docs.tangly1024.com/article/notion-next-themes', // 特性2
