@@ -334,7 +334,7 @@ const CONFIG = {
         },
         {
           TITLE: 'Rapidly improve efficiency',
-          URL:''https://www.amazon.com/dp/B0DJ178NSS'
+          URL:'https://www.amazon.com/dp/B0DJ178NSS'
         },
         {
           TITLE: 'Portable use in multiple scenarios',
