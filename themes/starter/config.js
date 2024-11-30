@@ -299,15 +299,15 @@ const CONFIG = {
     {
       TITLE: 'about me',
       LINK_GROUP: [
-        { TITLE: 'Sales Home Page', URL: 'https://www.amazon.com/dp/B0DJ178NSS' },
-        { TITLE: 'Operational Documentation', URL: 'https://drive.google.com/drive/folders/1Szkb2tGtnoVdsnqEFn2sCWZ8l-xSTJuY?usp=drive_link' },
+        { TITLE: 'Sales Home Page', URL:'https://www.amazon.com/dp/B0DJ178NSS' },
+        { TITLE: 'Operational Documentation', URL:'https://drive.google.com/drive/folders/1Szkb2tGtnoVdsnqEFn2sCWZ8l-xSTJuY?usp=drive_link' },
         {
           TITLE: 'Help & Support',
-          URL: 'https://drive.google.com/drive/folders/1Szkb2tGtnoVdsnqEFn2sCWZ8l-xSTJuY?usp=drive_link'
+          URL:'https://drive.google.com/drive/folders/1Szkb2tGtnoVdsnqEFn2sCWZ8l-xSTJuY?usp=drive_link'
         },
         {
           TITLE: 'Cooperation Application',
-          URL: 'https://drive.google.com/drive/folders/1Szkb2tGtnoVdsnqEFn2sCWZ8l-xSTJuY?usp=drive_link'
+          URL:'https://drive.google.com/drive/folders/1Szkb2tGtnoVdsnqEFn2sCWZ8l-xSTJuY?usp=drive_link'
         }
       ]
     },
@@ -316,13 +316,13 @@ const CONFIG = {
       LINK_GROUP: [
         {
           TITLE: 'Deployment Guide',
-          URL:  'https://drive.google.com/drive/folders/1Szkb2tGtnoVdsnqEFn2sCWZ8l-xSTJuY?usp=drive_link'
+          URL:'https://drive.google.com/drive/folders/1Szkb2tGtnoVdsnqEFn2sCWZ8l-xSTJuY?usp=drive_link'
         },
         {
           TITLE: 'Upgrade Guide',
-          URL:  'https://drive.google.com/drive/folders/1Szkb2tGtnoVdsnqEFn2sCWZ8l-xSTJuY?usp=drive_link'
+          URL:'https://drive.google.com/drive/folders/1Szkb2tGtnoVdsnqEFn2sCWZ8l-xSTJuY?usp=drive_link'
         },
-        { TITLE: 'Latest version', URL: 'https://www.amazon.com/dp/B0DJ178NSS' }
+        { TITLE: 'Latest version', URL:'https://www.amazon.com/dp/B0DJ178NSS' }
       ]
     },
     {
@@ -330,15 +330,15 @@ const CONFIG = {
       LINK_GROUP: [
         {
           TITLE: 'Customer Reviews',
-          URL: 'https://www.amazon.com/dp/B0DJ178NSS'
+          URL:'https://www.amazon.com/dp/B0DJ178NSS'
         },
         {
           TITLE: 'Rapidly improve efficiency',
-          URL: ''https://www.amazon.com/dp/B0DJ178NSS'
+          URL:''https://www.amazon.com/dp/B0DJ178NSS'
         },
         {
           TITLE: 'Portable use in multiple scenarios',
-          URL: 'https://www.amazon.com/dp/B0DJ178NSS'
+          URL:'https://www.amazon.com/dp/B0DJ178NSS'
         }
       ]
     }
