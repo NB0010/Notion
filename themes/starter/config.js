@@ -325,34 +325,22 @@ const CONFIG = {
       
     },
     {
-      TITLE: '',
+      TITLE: 'Recently Updated',
       LINK_GROUP: [
         {
-          TITLE: '',
-          URL: 'https://docs.tangly1024.com/article/start-to-write'
+          TITLE: 'Update document address',
+          URL: 'https://drive.google.com/drive/folders/1Szkb2tGtnoVdsnqEFn2sCWZ8l-xSTJuY?usp=drive_link'
         },
         {
-          TITLE: '',
-          URL: 'https://docs.tangly1024.com/article/notion-short-key'
+          TITLE: 'Update video URL',
+          URL: 'https://drive.google.com/drive/folders/1Szkb2tGtnoVdsnqEFn2sCWZ8l-xSTJuY?usp=drive_link'
         },
-        {
-          TITLE: '',
-          URL: 'https://docs.tangly1024.com/article/notion-faster'
-        }
       ]
     }
   ],
 
-  STARTER_FOOTER_BLOG_LATEST_TITLE: '',
+  STARTER_FOOTER_BLOG_LATEST_TITLE: 'Recently Updated',
 
-  STARTER_FOOTER_PRIVACY_POLICY_TEXT: '',
-  STARTER_FOOTER_PRIVACY_POLICY_URL: '/privacy-policy',
-
-  STARTER_FOOTER_PRIVACY_LEGAL_NOTICE_TEXT: '',
-  STARTER_FOOTER_PRIVACY_LEGAL_NOTICE_URL: '/legacy-notice',
-
-  STARTER_FOOTER_PRIVACY_TERMS_OF_SERVICE_TEXT: '',
-  STARTER_FOOTER_PRIVACY_TERMS_OF_SERVICE_URL: '/terms-of-use',
 
   // 404页面的提示语
   STARTER_404_TITLE: '404！',
