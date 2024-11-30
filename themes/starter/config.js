@@ -321,8 +321,8 @@ const CONFIG = {
         {
           TITLE: 'Welding strength',
           URL: 'https://docs.tangly1024.com/article/how-to-update-notionnext'
-        },
-      
+        }
+      ]   
     },
     {
       TITLE: 'Recently Updated',
@@ -334,7 +334,7 @@ const CONFIG = {
         {
           TITLE: 'Update video URL',
           URL: 'https://drive.google.com/drive/folders/1Szkb2tGtnoVdsnqEFn2sCWZ8l-xSTJuY?usp=drive_link'
-        },
+        }
       ]
     }
   ],
